@@ -17,8 +17,12 @@ Repositório para armazenar resumos sobre Git e Github do curso de versionamento
 - Autenticando chaves token e SSH
 - Criação de repositórios
 
-## Comandos Git
+## Alguns Comandos Git
 ```
+mkdir
+ls
+cd 
+cd ..
 git init
 git status
 git log

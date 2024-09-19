@@ -9,15 +9,26 @@ Repositório para armazenar resumos sobre Git e Github do curso de versionamento
 
 ## 💻 Resumo das Aulas
 
-| Aulas  | Resumos | 
-|-----| |-----|
-| Gravando Alterações no Repositório Local | [Resumos]
-() | 
+| Aulas | Resumos | 
 
+- O que é git e github?
+- O que é versionamento de código?
+- Instalação do git (windows e Linux)
+- Autenticando chaves token e SSH
+- Criação de repositórios
+
+## Comandos Git
 ```
 git init
+git status
+git log
+git add
+git commit
+git remote
+git pull
+git push
+
 ``` 
 
 ## 🔍 Referências
-- [Digital Innovation One] ()
 - [README] (https://readme.so/pt/editor)

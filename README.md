@@ -20,3 +20,4 @@ git init
 
 ## 🔍 Referências
 - [Digital Innovation One] ()
+- [README] (https://readme.so/pt/editor)
